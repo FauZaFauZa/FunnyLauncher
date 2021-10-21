@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "FunnyLauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "FauZa",
+  "description": "Le launcher OFFICIEL de FunnyCraft",
+  "author": "FauZa",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/FauZaFauZa/FunnyLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/FauZaFauZa/FunnyLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/FauZaFauZa/FunnyLauncher.git"
   }
 }
